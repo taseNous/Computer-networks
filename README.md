@@ -1,8 +1,11 @@
 # Computer-networks
 
 These are 6 simple projects in GNS3.
+<br>
 There is a topology and in the end a script is run to check if it satisfies the 
 questions asked.
+<br>
+There is a "Link" file which contains the link to GNS3 portable projects in Google Drive.
 
 <hr>
 
