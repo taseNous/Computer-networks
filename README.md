@@ -2,7 +2,9 @@
 
 These are 6 simple projects in GNS3.
 There is a topology and a in the end aa script is run to check if it satisfies the 
-# questions asked.
+questions asked.
+
+<hr>
 
 GNS3 is used by hundreds of thousands of network engineers worldwide to
 emulate, model, test and troubleshoot virtual and real-world
