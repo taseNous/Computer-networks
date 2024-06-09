@@ -1,7 +1,7 @@
 # Computer-networks
 
 These are 6 simple projects in GNS3.
-There is a topology and a in the end aa script is run to check if it satisfies the 
+There is a topology and in the end a script is run to check if it satisfies the 
 questions asked.
 
 <hr>
