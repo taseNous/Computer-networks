@@ -10,6 +10,10 @@ GNS3 does emulation not simulation, emulates terminal devices and provides the i
 (command line) to execute the same commands that would be executed in the real world.
 terminal device.
 
+GNS3 is open source software, free of charge, which can be downloaded from: https://www.gns3.com
+
+<hr>
+
 VMware Workstation 17 Player is a desktop virtualization software that allows you to run 
 multiple operating systems simultaneously on a single physical machine. It provides a 
 virtualized environment where you can create, configure, and run virtual machines (VMs).
@@ -17,3 +21,5 @@ virtualized environment where you can create, configure, and run virtual machine
 Combined with GNS3, you can simulate complex network topologies by connecting virtual 
 machines to network devices like routers, switches, and firewalls. This setup allows for 
 realistic testing of network configurations.
+
+VMware is a programa for creating and managing virtual machines. It can be downloaded from: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
