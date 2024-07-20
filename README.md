@@ -4,7 +4,7 @@
 
 - We are asked to implement a topology, following some simple commands. 
 - There are questions based on the commands we gave.
-- We run a script to check if the questions are answered correctly.
+- We run a script (via Debian) to check if the questions are answered correctly.
 
 1. A simple introduction to GNS3 and how to build a basic topology using a SWITCH and terminals. We also learn to connect it with VMware.
 2. We continue the intriduction building a network topology using Routers and NAT.
