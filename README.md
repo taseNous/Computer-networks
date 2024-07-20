@@ -1,5 +1,20 @@
 # Computer-networks
 
+<b> Project Structure
+
+- We are asked to implement a topology, following some simple commands. 
+- There are questions based on the commands we gave.
+- We run a script to check if the questions are answered correctly.
+
+1. A simple introduction to GNS3 and how to build a basic topology using a SWITCH and terminals. We also learn to connect it with VMware.
+2. We continue the intriduction building a network topology using Routers and NAT.
+3. Introduction to MIKROTIK ROUTER.
+4. Basic configuration for accessing CISCO ROUTER.
+5. Implementation of backbone networks with a MIKROTIK ROUTER and their interconnection with the BGP Protocol.
+6. Introduction to VLAN use - VLAN Trunking 
+
+<hr>
+
 GNS3 is used by hundreds of thousands of network engineers worldwide to
 emulate, model, test and troubleshoot virtual and real-world
 networks. GNS3 allows you to run a small topology consisting of only a few
@@ -22,4 +37,4 @@ Combined with GNS3, you can simulate complex network topologies by connecting vi
 machines to network devices like routers, switches, and firewalls. This setup allows for 
 realistic testing of network configurations.
 
-VMware is a programa for creating and managing virtual machines. It can be downloaded from: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+VMware is a program for creating and managing virtual machines. It can be downloaded from: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
