@@ -1,6 +1,6 @@
 # Computer-networks
 
-<b> Project Structure
+<b> Project Structure </b>
 
 - We are asked to implement a topology, following some simple commands. 
 - There are questions based on the commands we gave.
